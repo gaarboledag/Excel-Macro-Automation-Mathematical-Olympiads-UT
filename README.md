@@ -1,4 +1,4 @@
-# Excel Macro Automatization: Olimpiadas Matemáticas UT.
+# Excel Macro Automation: Olimpiadas Matemáticas UT.
 
 El archivo DATOS_INICIALES.xlsx corresponde a la salida de un software hecho por demanda para la Universidad del Tolima cuya funcion es registrar los datos de los estudiantes de instituciones educativas interesados en participar en la competencia Olimpiadas Matemáticas UT. El detalle consiste en que el software genera los datos en un formato que impide su análisis estadístico.
 
